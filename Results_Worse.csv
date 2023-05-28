@@ -1,0 +1,41 @@
+Nome,Worse Time (ns),Worse Comp.
+Sequential Search 3000,336000,148222
+Binary Search 3000,11000,1062
+Linked List Search 3000,617000,160642
+Binary Search Tree 3000,671000,100
+Sequential Search 6000,796000,299821
+Binary Search 6000,17000,1174
+Linked List Search 6000,1173000,302271
+Binary Search Tree 6000,1276000,100
+Sequential Search 9000,1030000,420117
+Binary Search 9000,10000,1228
+Linked List Search 9000,1712000,469367
+Binary Search Tree 9000,1970000,100
+Sequential Search 12000,1299000,532865
+Binary Search 12000,14000,1253
+Linked List Search 12000,2390000,653517
+Binary Search Tree 12000,2614000,100
+Sequential Search 15000,1653000,786485
+Binary Search 15000,26000,1291
+Linked List Search 15000,2850000,736085
+Binary Search Tree 15000,3331000,100
+Sequential Search 18000,2592000,949601
+Binary Search 18000,15000,1307
+Linked List Search 18000,3602000,841723
+Binary Search Tree 18000,4217000,100
+Sequential Search 21000,2299000,1082803
+Binary Search 21000,14000,1346
+Linked List Search 21000,4254000,952131
+Binary Search Tree 21000,5198000,100
+Sequential Search 24000,2685000,1170673
+Binary Search 24000,11000,1369
+Linked List Search 24000,4769000,1207206
+Binary Search Tree 24000,5364000,100
+Sequential Search 27000,2818000,1284816
+Binary Search 27000,12000,1389
+Linked List Search 27000,5231000,1457590
+Binary Search Tree 27000,6143000,100
+Sequential Search 30000,3246000,1630198
+Binary Search 30000,12000,1387
+Linked List Search 30000,6074000,1531549
+Binary Search Tree 30000,6599000,100
